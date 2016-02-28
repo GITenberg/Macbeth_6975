@@ -1,0 +1,37 @@
+_repo: Macbeth_6975
+contributor:
+  translator:
+    agent_name: Tieck, Dorothea
+    birthdate: 1799
+    deathdate: 1841
+    gutenberg_agent_id: '2291'
+    url: http://www.gutenberg.org/2009/agents/2291
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: ''
+gutenberg_bookshelf: DE Drama
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6975'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Regicides -- Drama'
+- !lcsh 'Tragedies'
+- !lcsh 'Macbeth, King of Scotland, active 11th century -- Drama'
+- !lcc 'PR'
+- !lcsh 'Scotland -- Kings and rulers -- Drama'
+title: Macbeth
+url: http://www.gutenberg.org/ebooks/6975
